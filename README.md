@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
 # 🎯 Fun Fact: <br> 
-The day a club hits Real Madrid's 15 UCL, I’m retiring from cyber security to become a shepherd in the mountains
+If any club in the world ever reaches Real Madrid’s 15 Champions League titles… I’m retiring from cyber security and becoming a shepherd in the mountains!
 
 [![](https://visitcount.itsvg.in/api?id=sn0d3n3&icon=5&color=1)](https://visitcount.itsvg.in)
 
